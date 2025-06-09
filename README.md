@@ -1,2 +1,2 @@
 # Philosophy-of-Science
-philosophy essays!
+Some of my philosophy essays!
